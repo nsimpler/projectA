@@ -108,6 +108,7 @@ public class LoginController {
 		
 		return LOGIN_FORM;
 	}
+	
 /*
 	@RequestMapping(method = RequestMethod.POST)
 	public String login(HttpServletResponse response,@ModelAttribute("loginCommand") LoginCommand loginCommand,
