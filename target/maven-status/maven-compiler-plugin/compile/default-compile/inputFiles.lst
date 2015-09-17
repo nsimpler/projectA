@@ -6,6 +6,8 @@
 /Users/taeyoon.kim/myspring/projectA/src/main/java/net/nsimpler/application/controllers/admin/AccountresultController.java
 /Users/taeyoon.kim/myspring/projectA/src/main/java/net/nsimpler/application/controllers/auth/MemberRegistRequest.java
 /Users/taeyoon.kim/myspring/projectA/src/main/java/net/nsimpler/common/MeasuringInterceptor.java
+/Users/taeyoon.kim/myspring/projectA/src/main/java/net/nsimpler/application/dao/PurchaseOrderDao.java
+/Users/taeyoon.kim/myspring/projectA/src/main/java/net/nsimpler/application/model/Alias.java
 /Users/taeyoon.kim/myspring/projectA/src/main/java/net/nsimpler/common/CommonModelInterceptor.java
 /Users/taeyoon.kim/myspring/projectA/src/main/java/net/nsimpler/application/controllers/auth/Os.java
 /Users/taeyoon.kim/myspring/projectA/src/main/java/net/nsimpler/common/AuthInterceptor.java
@@ -15,4 +17,5 @@
 /Users/taeyoon.kim/myspring/projectA/src/main/java/net/nsimpler/application/controllers/action/UserController.java
 /Users/taeyoon.kim/myspring/projectA/src/main/java/net/nsimpler/application/controllers/auth/LoginController.java
 /Users/taeyoon.kim/myspring/projectA/src/main/java/net/nsimpler/application/controllers/auth/Code.java
+/Users/taeyoon.kim/myspring/projectA/src/main/java/net/nsimpler/application/model/PurchaseOrder.java
 /Users/taeyoon.kim/myspring/projectA/src/main/java/net/nsimpler/application/controllers/auth/LoginCommand.java
